@@ -37,7 +37,7 @@ The project successfully demonstrates the control of the Fanuc LR Mate 200iC rob
 
 ### Example Results
 
-![Simulation Results](path/to/your/image.png)
+![Simulation Results](Bot.png)
 
 *Note: Replace `path/to/your/image.png` with the actual path to your result image.*
 
